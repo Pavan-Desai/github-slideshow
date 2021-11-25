@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"FLOAT like a bug"
 Use the left arrow to go back!
